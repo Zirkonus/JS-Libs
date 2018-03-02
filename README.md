@@ -1,4 +1,4 @@
-# Useful JavaScript libraries.
+# Useful JavaScript libraries
 
 ## Waypoints
 #### JQuery / jquery.waypoints.min.js
